@@ -27,9 +27,9 @@ jobs:
       # commit changes
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: 'zed-thon fixed'
+          commit_message: 'matrix fixed'
           commit_options: '--no-verify'
           repository: .
-          commit_user_name: zed-thon
-          commit_user_email: zelzalyas@gmail.com
-          commit_author: zed-thon<zelzalyas@gmail.com>
+          commit_user_name: matrix
+          commit_user_email: matrix120n@gmail.com
+          commit_author: matrix<matrix120n@gmail.com>
